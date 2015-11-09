@@ -1,18 +1,19 @@
 <!DOCTYPE html>
 <html>
 <head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" integrity="sha512-dTfge/zgoMYpP7QbHy4gWMEGsbsdZeCXz7irItjcC3sPUFtf0kuFbDz/ixG7ArTxmDjLXDmezHubeNikyKGVyQ==" crossorigin="anonymous">
     <title>Czytaj książki Online</title>
 </head>
 <body>
     <header>
     </header>
     <section id="introduction">
-        <div>
+        <div class="container text-center">
             <h1>Czytaj Książki online</h1>
-            <p>
+            <p class="lead">
                 Skorzystaj z naszych usług, wypożyczaj i czytaj książki online.
                 Wybierz bezapelacyjnie najlepiej zoptymalizowane rozwiązanie
-                dostępne na rynku.
             </p>
         </div>
     </section>
@@ -21,14 +22,16 @@
             <h1 class="">Mówią o nas</h1>
             <div>
                 <div>
-                  <h2>Onet.pl</h2>
-                  <img src="http://www.kupujnasze.pl/wp-content/uploads/2010/03/logo_onetpl_kropka_odstep.jpg"/>
+                  <h2>Onet.pl</h2                  <img src="http://www.kupujnasze.pl/wp-content/uploads/2010/03/logo_onetpl_kropka_odstep.jpg"/>
                   <p>Lorem Ipsum jest tekstem stosowanym jako przykładowy wypełniacz w przemyśle poligraficznym. Został po raz pierwszy użyty w XV w. przez nieznanego drukarza do wypełnienia tekstem próbnej książki. Pięć wieków później zaczął być używany przemyśle elektronicznym, pozostając praktycznie niezmienionym. Spopularyzował się w latach 60. XX w. wraz z publikacją arkuszy Letrasetu, zawierających fragmenty Lorem Ipsum, a ostatnio z zawierającym różne wersje Lorem Ipsum oprogramowaniem przeznaczonym do realizacji druków na komputerach osobistych, jak Aldus PageMaker</p>
                   <p><a href="#" role="button">Czytaj więcej »</a></p>
                 </div>
             <div>
               <h2>wp.pl</h2>
-              <img src="http://gomobi.pl/data/uploads/2012/03/wirtualna_polska.jpg"/>
+  >
+  .
+                      dostępne na rynku            </p>
+    <img src="http://gomobi.pl/data/uploads/2012/03/wirtualna_polska.jpg"/>
               <p>Lorem Ipsum jest tekstem stosowanym jako przykładowy wypełniacz w przemyśle poligraficznym. Został po raz pierwszy użyty w XV w. przez nieznanego drukarza do wypełnienia tekstem próbnej książki. Pięć wieków później zaczął być używany przemyśle elektronicznym, pozostając praktycznie niezmienionym. Spopularyzował się w latach 60. XX w. wraz z publikacją arkuszy Letrasetu, zawierających fragmenty Lorem Ipsum, a ostatnio z zawierającym różne wersje Lorem Ipsum oprogramowaniem przeznaczonym do realizacji druków na komputerach osobistych, jak Aldus PageMaker</p>
               <p><a href="#" role="button">Czytaj więcej »</a></p>
            </div>
