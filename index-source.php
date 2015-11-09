@@ -18,28 +18,26 @@
         </div>
     </section>
     <section id="press">
-        <div>
-            <h1 class="">Mówią o nas</h1>
-            <div>
-                <div>
-                  <h2>Onet.pl</h2                  <img src="http://www.kupujnasze.pl/wp-content/uploads/2010/03/logo_onetpl_kropka_odstep.jpg"/>
+        <div class="container text-center">
+            <h1 >Mówią o nas</h1>
+            <div class="row">
+                <div class="col-xs-12 col-sm-2 col-md-4">
+                  <h2>Onet.pl</h2>                  
+                  <img class="img-responsive" src="http://www.kupujnasze.pl/wp-content/uploads/2010/03/logo_onetpl_kropka_odstep.jpg"/>
                   <p>Lorem Ipsum jest tekstem stosowanym jako przykładowy wypełniacz w przemyśle poligraficznym. Został po raz pierwszy użyty w XV w. przez nieznanego drukarza do wypełnienia tekstem próbnej książki. Pięć wieków później zaczął być używany przemyśle elektronicznym, pozostając praktycznie niezmienionym. Spopularyzował się w latach 60. XX w. wraz z publikacją arkuszy Letrasetu, zawierających fragmenty Lorem Ipsum, a ostatnio z zawierającym różne wersje Lorem Ipsum oprogramowaniem przeznaczonym do realizacji druków na komputerach osobistych, jak Aldus PageMaker</p>
-                  <p><a href="#" role="button">Czytaj więcej »</a></p>
+                  <p><a href="#" role="button" class="btn btn-default">Czytaj więcej »</a></p>
                 </div>
-            <div>
+            <div class="col-xs-12 col-sm-2 col-md-4">
               <h2>wp.pl</h2>
-  >
-  .
-                      dostępne na rynku            </p>
-    <img src="http://gomobi.pl/data/uploads/2012/03/wirtualna_polska.jpg"/>
+              <img class="img-responsive" src="http://gomobi.pl/data/uploads/2012/03/wirtualna_polska.jpg"/>
               <p>Lorem Ipsum jest tekstem stosowanym jako przykładowy wypełniacz w przemyśle poligraficznym. Został po raz pierwszy użyty w XV w. przez nieznanego drukarza do wypełnienia tekstem próbnej książki. Pięć wieków później zaczął być używany przemyśle elektronicznym, pozostając praktycznie niezmienionym. Spopularyzował się w latach 60. XX w. wraz z publikacją arkuszy Letrasetu, zawierających fragmenty Lorem Ipsum, a ostatnio z zawierającym różne wersje Lorem Ipsum oprogramowaniem przeznaczonym do realizacji druków na komputerach osobistych, jak Aldus PageMaker</p>
-              <p><a href="#" role="button">Czytaj więcej »</a></p>
+              <p><a href="#" role="button" class="btn btn-default">Czytaj więcej »</a></p>
            </div>
-            <div>
+            <div class="col-xs-12 col-sm-2 col-md-4">
               <h2>Kurier UEK</h2>
-              <img src="http://cfm.uek.krakow.pl/media/images/8d/55/c032f96f30ebb23a22f96b221f90.jpeg"/>
+              <img class="img-responsive" src="http://cfm.uek.krakow.pl/media/images/8d/55/c032f96f30ebb23a22f96b221f90.jpeg"/>
               <p>Lorem Ipsum jest tekstem stosowanym jako przykładowy wypełniacz w przemyśle poligraficznym. Został po raz pierwszy użyty w XV w. przez nieznanego drukarza do wypełnienia tekstem próbnej książki. Pięć wieków później zaczął być używany przemyśle elektronicznym, pozostając praktycznie niezmienionym. Spopularyzował się w latach 60. XX w. wraz z publikacją arkuszy Letrasetu, zawierających fragmenty Lorem Ipsum, a ostatnio z zawierającym różne wersje Lorem Ipsum oprogramowaniem przeznaczonym do realizacji druków na komputerach osobistych, jak Aldus PageMaker</p>
-              <p><a href="#" role="button">Czytaj więcej »</a></p>
+              <p><a href="#" role="button" class="btn btn-default">Czytaj więcej »</a></p>
             </div>
           </div>
         </div>
