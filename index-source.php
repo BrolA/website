@@ -62,8 +62,6 @@
                         <i class="glyphicon glyphicon-stats"></i>
                         <small>320k odsłon</small>
                     </div>
-                </div>
-                <div class="row">
                     <div class="col-sm-6 col-md-3 square">
                         <i class="glyphicon glyphicon-thumbs-up"></i>
                         <small>100k polubień</small>
